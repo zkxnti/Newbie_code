@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: a913bd60af63d9246acd18ac3f114dcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 925248125091745704
+    second: 255-2558337_sprite-bottle-png_0
+  - first:
+      213: 7817408174523685045
+    second: 255-2558337_sprite-bottle-png_1
+  - first:
+      213: 8620166270226602575
+    second: 255-2558337_sprite-bottle-png_2
+  - first:
+      213: 7933564988974202502
+    second: 255-2558337_sprite-bottle-png_3
+  - first:
+      213: -6366893109141778442
+    second: 255-2558337_sprite-bottle-png_4
+  - first:
+      213: 3249089344020561737
+    second: 255-2558337_sprite-bottle-png_5
+  - first:
+      213: 4989687962732101957
+    second: 255-2558337_sprite-bottle-png_6
+  - first:
+      213: 8570629699727232144
+    second: 255-2558337_sprite-bottle-png_7
+  - first:
+      213: 3346200930669633468
+    second: 255-2558337_sprite-bottle-png_8
+  - first:
+      213: 7841192523478659755
+    second: 255-2558337_sprite-bottle-png_9
+  - first:
+      213: -9103794208953565611
+    second: 255-2558337_sprite-bottle-png_10
+  - first:
+      213: -6764986158446023750
+    second: 255-2558337_sprite-bottle-png_11
+  - first:
+      213: -2602606833599077506
+    second: 255-2558337_sprite-bottle-png_12
+  - first:
+      213: -6697848777709844328
+    second: 255-2558337_sprite-bottle-png_13
+  - first:
+      213: 6473485577987352553
+    second: 255-2558337_sprite-bottle-png_14
+  - first:
+      213: -6517269159840747794
+    second: 255-2558337_sprite-bottle-png_15
+  - first:
+      213: -8871934727882605370
+    second: 255-2558337_sprite-bottle-png_16
+  - first:
+      213: 4208919278026534415
+    second: 255-2558337_sprite-bottle-png_17
+  - first:
+      213: 3426624672043836271
+    second: 255-2558337_sprite-bottle-png_18
+  - first:
+      213: 5332856712127640297
+    second: 255-2558337_sprite-bottle-png_19
+  - first:
+      213: -1398256253827637082
+    second: 255-2558337_sprite-bottle-png_20
+  - first:
+      213: -2907631780106468254
+    second: 255-2558337_sprite-bottle-png_21
+  - first:
+      213: -7536602294958620125
+    second: 255-2558337_sprite-bottle-png_22
+  - first:
+      213: 8974308745906681655
+    second: 255-2558337_sprite-bottle-png_23
+  - first:
+      213: 4520437373686736516
+    second: 255-2558337_sprite-bottle-png_24
+  - first:
+      213: 4053645465266837221
+    second: 255-2558337_sprite-bottle-png_25
+  - first:
+      213: -6195853632082783670
+    second: 255-2558337_sprite-bottle-png_26
+  - first:
+      213: 5567122005346387182
+    second: 255-2558337_sprite-bottle-png_27
+  - first:
+      213: -2005392331632718842
+    second: 255-2558337_sprite-bottle-png_28
+  - first:
+      213: -1875891113310082596
+    second: 255-2558337_sprite-bottle-png_29
+  - first:
+      213: -296023274496492742
+    second: 255-2558337_sprite-bottle-png_30
+  - first:
+      213: -8135196589436477832
+    second: 255-2558337_sprite-bottle-png_31
+  - first:
+      213: 1512459977125225239
+    second: 255-2558337_sprite-bottle-png_32
+  - first:
+      213: 2898396969361262922
+    second: 255-2558337_sprite-bottle-png_33
+  - first:
+      213: 5560575012494721373
+    second: 255-2558337_sprite-bottle-png_34
+  - first:
+      213: -4141070582906352215
+    second: 255-2558337_sprite-bottle-png_35
+  - first:
+      213: 7641745211226515239
+    second: 255-2558337_sprite-bottle-png_36
+  - first:
+      213: 5296215997623918358
+    second: 255-2558337_sprite-bottle-png_37
+  - first:
+      213: 1096947306974533833
+    second: 255-2558337_sprite-bottle-png_38
+  - first:
+      213: 7416439315664104825
+    second: 255-2558337_sprite-bottle-png_39
+  - first:
+      213: -8691542162749828866
+    second: 255-2558337_sprite-bottle-png_40
+  - first:
+      213: 4252780733669934602
+    second: 255-2558337_sprite-bottle-png_41
+  - first:
+      213: 7735853815701390330
+    second: 255-2558337_sprite-bottle-png_42
+  - first:
+      213: -3811463336520305550
+    second: 255-2558337_sprite-bottle-png_43
+  - first:
+      213: 814733288185545749
+    second: 255-2558337_sprite-bottle-png_44
+  - first:
+      213: 3386162199912549060
+    second: 255-2558337_sprite-bottle-png_45
+  - first:
+      213: -413671466944824873
+    second: 255-2558337_sprite-bottle-png_46
+  - first:
+      213: 3763758009270098467
+    second: 255-2558337_sprite-bottle-png_47
+  - first:
+      213: -8927897295474485626
+    second: 255-2558337_sprite-bottle-png_48
+  - first:
+      213: -2976384119197584265
+    second: 255-2558337_sprite-bottle-png_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8031844427dc00800000000000000
+      internalID: 925248125091745704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b818baf0530d7c60800000000000000
+      internalID: 7817408174523685045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a19a91d8bf0a770800000000000000
+      internalID: 8620166270226602575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e784ad25fa91e60800000000000000
+      internalID: 7933564988974202502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc8b2537044a7a0800000000000000
+      internalID: -6366893109141778442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3ad14b85171d20800000000000000
+      internalID: 3249089344020561737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54180bef3ceee3540800000000000000
+      internalID: 4989687962732101957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 618
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c87a18d4ef0f670800000000000000
+      internalID: 8570629699727232144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf15ab7408107e20800000000000000
+      internalID: 3346200930669633468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f4614e0381dc60800000000000000
+      internalID: 7841192523478659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e7013a663d8a180800000000000000
+      internalID: -9103794208953565611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe36b6ee0fd12a0800000000000000
+      internalID: -6764986158446023750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a251cfdea1ebd0800000000000000
+      internalID: -2602606833599077506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898025df5067c03a0800000000000000
+      internalID: -6697848777709844328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ec8ec5d076d950800000000000000
+      internalID: 6473485577987352553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_15
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 516
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6516aa320e85a0800000000000000
+      internalID: -6517269159840747794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccfa1ade5e80e480800000000000000
+      internalID: -8871934727882605370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea01798c5196a30800000000000000
+      internalID: 4208919278026534415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6323c3fbf0dd8f20800000000000000
+      internalID: 3426624672043836271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fc6cccec120a40800000000000000
+      internalID: 5332856712127640297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a2ad6855689ce0800000000000000
+      internalID: -1398256253827637082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_21
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640e112d4406a7d0800000000000000
+      internalID: -2907631780106468254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_22
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220993b42c986790800000000000000
+      internalID: -7536602294958620125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_23
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 414
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f278a1462b8c70800000000000000
+      internalID: 8974308745906681655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4866fff47d1dbbe30800000000000000
+      internalID: 4520437373686736516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65a92d211714830800000000000000
+      internalID: 4053645465266837221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42546bd2f7e30aa0800000000000000
+      internalID: -6195853632082783670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48eedc7f3624d40800000000000000
+      internalID: 5567122005346387182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c4db5ac4a6b24e0800000000000000
+      internalID: -2005392331632718842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_29
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd927d9a8fe77f5e0800000000000000
+      internalID: -1875891113310082596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_30
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b7366766054ebf0800000000000000
+      internalID: -296023274496492742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_31
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 306
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5ba4ddc9f91f80800000000000000
+      internalID: -8135196589436477832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7136b89f5565df410800000000000000
+      internalID: 1512459977125225239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c8d0ffac293820800000000000000
+      internalID: 2898396969361262922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5149ae33812b2d40800000000000000
+      internalID: 5560575012494721373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_35
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0c04ce36f786c0800000000000000
+      internalID: -4141070582906352215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e23b28ceec0a60800000000000000
+      internalID: 7641745211226515239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_37
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5d18a360ff7940800000000000000
+      internalID: 5296215997623918358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_38
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d98983c3293f00800000000000000
+      internalID: 1096947306974533833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_39
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 204
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d666c734c7ce660800000000000000
+      internalID: 7416439315664104825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef057f6e370716780800000000000000
+      internalID: -8691542162749828866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06850a8b89e40b30800000000000000
+      internalID: 4252780733669934602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34b3f1f064b5b60800000000000000
+      internalID: 7735853815701390330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27438481a46fa1bc0800000000000000
+      internalID: -3811463336520305550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_44
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144cf4eb938e4b00800000000000000
+      internalID: 814733288185545749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_45
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca84a584901efe20800000000000000
+      internalID: 3386162199912549060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_46
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f9071ef7524af0800000000000000
+      internalID: -413671466944824873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_47
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 102
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a531bd7fd8b3430800000000000000
+      internalID: 3763758009270098467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686921836bcb91480800000000000000
+      internalID: -8927897295474485626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 255-2558337_sprite-bottle-png_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743d14c962c1b6d0800000000000000
+      internalID: -2976384119197584265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
